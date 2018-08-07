@@ -1,0 +1,16 @@
+PODS:
+  - SZMentionsSwift (2.0.1)
+
+DEPENDENCIES:
+  - SZMentionsSwift (~> 2.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SZMentionsSwift
+
+SPEC CHECKSUMS:
+  SZMentionsSwift: 37365574621278c1ba252a9d7b23bf4451bcc384
+
+PODFILE CHECKSUM: c20ac6a27042e748d44565002b676f727ac807fb
+
+COCOAPODS: 1.5.3
